@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div style={{ padding: 20 }}>
       <h1>Pixel Mask Avatar Demo</h1>
-      <Avatar hairColor="blonde" backHairStyle="doubleHighPonytail" eyeColor="green" clothesColor="red" topStyle="spaghetti" />
+      <Avatar hairColor="black" backHairStyle="lowPonytail" eyeColor="blue" clothesColor="blue" topStyle="shirt" />
     </div>
   );
 }
