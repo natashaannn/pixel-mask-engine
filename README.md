@@ -78,11 +78,3 @@ src/                # main library code
 examples/           # demo applications
 docs/               # documentation (if any)
 ```
-
-## Contributing
-
-Contributions are welcome! Please open issues or pull requests for new features or bug fixes.
-
-## License
-
-Specify license information here.
